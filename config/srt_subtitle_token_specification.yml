@@ -1,0 +1,4 @@
+SRT_SUBTITLE_TOKEN_SPECIFICATION:
+  OFFSET: '^\d+\n?'
+  TIMECODE: '\s-->\s'
+  BLANKLINE: '^(\n|\s*)$'
